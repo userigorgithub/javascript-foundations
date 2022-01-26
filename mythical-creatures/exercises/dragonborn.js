@@ -1,3 +1,5 @@
+// CREATED BY DILLON PARKER !!!
+
 class Dragonborn {
   constructor({name, race, guilds}) {
     this.name = name || "Yyeurgen";

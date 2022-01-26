@@ -1,3 +1,5 @@
+// CREATED BY DILLON PARKER !!!
+
 class Guard {
   constructor(name, socialClass, rank) {
     this.name = name;
